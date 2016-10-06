@@ -17,11 +17,11 @@ import static java.lang.System.out;
 public class DataBase {
 
     public static final String SQL_DRIVER_CLASS_NAME = "com.mysql.jdbc.Driver";
-    public static final String URL_OPEN_CONNECTION = "jdbc:mysql://localhost:3306/crawler_netease_music";
+    public static final String URL_OPEN_CONNECTION = "jdbc:mysql://localhost:3306/acg";
     public static final String USER_NAME = "root";
     public static final String USER_PASSWORD = "houyudong2012";
 
-    public static final String TABLE_NAME_PLAYLIST = "playlist";
+    public static final String TABLE_NAME_PLAYLIST = "gufeng_playlist";
     public static final String TABLE_NAME_WEBPAGE = "webpage";
 
     public static final String INDEX_ID = "id";
@@ -107,7 +107,7 @@ public class DataBase {
             return true;
         }
 
-        String sql = " INSERT INTO  playlist" +
+        String sql = " INSERT INTO  " +TABLE_NAME_PLAYLIST+
                 "(id,playlist_name,playlist_creator,playlist_creator_home,playlist_create_date,song_count,play_count,fav_count,comment_count,url) " +
                 "VALUES ('" + playList.getId() + "','" + playList.getName() + "','"+ playList.getCreator() +
                 "','" + playList.getCreatorHome() + "','" + playList.getCreateDate() + "','" + playList.getSongCount() + "','"
@@ -145,7 +145,7 @@ public class DataBase {
             sqltype = INDEX_HTML;
             args = (String) arg;
         }
-        String sql = "update  webpage set " + sqltype + " = '" + args + "' where id = " + webPage.getId();
+        String sql = "update  "+TABLE_NAME_WEBPAGE+" set " + sqltype + " = '" + args + "' where id = " + webPage.getId();
         System.out.println(sql);
         Statement statement = (Statement) connection.createStatement();
         statement.executeUpdate(sql);

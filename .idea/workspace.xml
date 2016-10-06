@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ead6969-db6b-4fd2-b0bc-418267117c29" name="Default" comment="" />
+    <list default="true" id="8ead6969-db6b-4fd2-b0bc-418267117c29" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Crawler-NeteaseMusic/ClawlerService.class" afterPath="$PROJECT_DIR$/out/production/Crawler-NeteaseMusic/ClawlerService.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Crawler-NeteaseMusic/DataBase.class" afterPath="$PROJECT_DIR$/out/production/Crawler-NeteaseMusic/DataBase.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Crawler-NeteaseMusic/Main.class" afterPath="$PROJECT_DIR$/out/production/Crawler-NeteaseMusic/Main.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ClawlerService.java" afterPath="$PROJECT_DIR$/src/ClawlerService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/DataBase.java" afterPath="$PROJECT_DIR$/src/DataBase.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Main.java" afterPath="$PROJECT_DIR$/src/Main.java" />
+    </list>
     <ignored path="Crawler-NeteaseMusic.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -39,21 +48,66 @@
       <file leaf-file-name="PlayList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/model/PlayList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
+            <state relative-caret-position="682">
               <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-              <folding />
+              <folding>
+                <element signature="e#545#546#0" expanded="false" />
+                <element signature="e#606#607#0" expanded="false" />
+                <element signature="e#1616#1617#0" expanded="false" />
+                <element signature="e#1641#1642#0" expanded="false" />
+                <element signature="e#1674#1675#0" expanded="false" />
+                <element signature="e#1702#1703#0" expanded="false" />
+                <element signature="e#1733#1734#0" expanded="false" />
+                <element signature="e#1760#1761#0" expanded="false" />
+                <element signature="e#1800#1801#0" expanded="false" />
+                <element signature="e#1832#1833#0" expanded="false" />
+                <element signature="e#1867#1868#0" expanded="false" />
+                <element signature="e#1898#1899#0" expanded="false" />
+                <element signature="e#1946#1947#0" expanded="false" />
+                <element signature="e#1986#1987#0" expanded="false" />
+                <element signature="e#2020#2021#0" expanded="false" />
+                <element signature="e#2050#2051#0" expanded="false" />
+                <element signature="e#2096#2097#0" expanded="false" />
+                <element signature="e#2134#2135#0" expanded="false" />
+                <element signature="e#2171#2172#0" expanded="false" />
+                <element signature="e#2204#2205#0" expanded="false" />
+                <element signature="e#2256#2257#0" expanded="false" />
+                <element signature="e#2300#2301#0" expanded="false" />
+                <element signature="e#2333#2334#0" expanded="false" />
+                <element signature="e#2365#2366#0" expanded="false" />
+                <element signature="e#2412#2413#0" expanded="false" />
+                <element signature="e#2454#2455#0" expanded="false" />
+                <element signature="e#2487#2488#0" expanded="false" />
+                <element signature="e#2519#2520#0" expanded="false" />
+                <element signature="e#2566#2567#0" expanded="false" />
+                <element signature="e#2608#2609#0" expanded="false" />
+                <element signature="e#2640#2641#0" expanded="false" />
+                <element signature="e#2671#2672#0" expanded="false" />
+                <element signature="e#2716#2717#0" expanded="false" />
+                <element signature="e#2756#2757#0" expanded="false" />
+                <element signature="e#2792#2793#0" expanded="false" />
+                <element signature="e#2827#2828#0" expanded="false" />
+                <element signature="e#2880#2881#0" expanded="false" />
+                <element signature="e#2928#2929#0" expanded="false" />
+                <element signature="e#2966#2967#0" expanded="false" />
+                <element signature="e#3000#3001#0" expanded="false" />
+                <element signature="e#3054#3055#0" expanded="false" />
+                <element signature="e#3100#3101#0" expanded="false" />
+                <element signature="e#3130#3131#0" expanded="false" />
+                <element signature="e#3156#3157#0" expanded="false" />
+                <element signature="e#3194#3195#0" expanded="false" />
+                <element signature="e#3224#3225#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ClawlerThread.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ClawlerThread.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ClawlerThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-20">
+            <state relative-caret-position="-1178">
               <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
               <folding>
-                <element signature="e#658#659#0" expanded="true" />
-                <element signature="e#710#711#0" expanded="true" />
                 <element signature="method#parse#0;class#ClawlerThread#0" expanded="false" />
               </folding>
             </state>
@@ -63,8 +117,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+            <state relative-caret-position="279">
+              <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,10 +149,35 @@
       <file leaf-file-name="WebPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/model/WebPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-678">
+            <state relative-caret-position="279">
               <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="17" selection-end-column="51" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#806#807#0" expanded="false" />
+                <element signature="e#829#830#0" expanded="false" />
+                <element signature="e#2989#2990#0" expanded="false" />
+                <element signature="e#3017#3018#0" expanded="false" />
+                <element signature="e#3043#3044#0" expanded="false" />
+                <element signature="e#3068#3069#0" expanded="false" />
+                <element signature="e#3098#3099#0" expanded="false" />
+                <element signature="e#3124#3125#0" expanded="false" />
+                <element signature="e#3162#3163#0" expanded="false" />
+                <element signature="e#3192#3193#0" expanded="false" />
+                <element signature="e#3225#3226#0" expanded="false" />
+                <element signature="e#3252#3253#0" expanded="false" />
+                <element signature="e#3294#3295#0" expanded="false" />
+                <element signature="e#3326#3327#0" expanded="false" />
+                <element signature="e#3357#3358#0" expanded="false" />
+                <element signature="e#3384#3385#0" expanded="false" />
+                <element signature="e#3424#3425#0" expanded="false" />
+                <element signature="e#3456#3457#0" expanded="false" />
+                <element signature="e#3489#3490#0" expanded="false" />
+                <element signature="e#3518#3519#0" expanded="false" />
+                <element signature="e#3562#3563#0" expanded="false" />
+                <element signature="e#3598#3599#0" expanded="false" />
+                <element signature="e#3630#3631#0" expanded="false" />
+                <element signature="e#3658#3659#0" expanded="false" />
+                <element signature="e#3700#3701#0" expanded="false" />
+                <element signature="e#3734#3735#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -107,10 +186,9 @@
       <file leaf-file-name="ClawlerService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ClawlerService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="659">
+            <state relative-caret-position="2077">
               <caret line="172" column="5" selection-start-line="172" selection-start-column="5" selection-end-line="172" selection-end-column="5" />
               <folding>
-                <element signature="imports" expanded="true" />
                 <element signature="method#findTopUncrawlWebPage#0;class#ClawlerService#0" expanded="false" />
                 <element signature="method#save#1;class#ClawlerService#0" expanded="false" />
                 <element signature="method#initAll#0;class#ClawlerService#0" expanded="false" />
@@ -119,39 +197,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DataBase.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DataBase.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DataBase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+            <state relative-caret-position="-44">
+              <caret line="23" column="60" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#DataBase#0;class#DataBase#0" expanded="false" />
                 <element signature="method#getWebPagesFromDataBaseByStatusAndCount#0;class#DataBase#0" expanded="false" />
-                <element signature="method#updateStatus#0;class#DataBase#0" expanded="false" />
                 <element signature="method#updateHtml#0;class#DataBase#0" expanded="false" />
                 <element signature="method#update#0;class#DataBase#0" expanded="false" />
                 <element signature="method#isAlreadyExist#0;class#DataBase#0" expanded="false" />
-                <marker date="1475573034556" expanded="true" signature="2221:2312" ph="SELECT * FRO... webpage" />
-                <marker date="1475573034556" expanded="true" signature="3039:3406" ph="INSERT INTO missingValue... " />
-                <marker date="1475573034556" expanded="true" signature="3695:4019" ph="INSERT INTO webpage... " />
-                <marker date="1475573034556" expanded="true" signature="4458:4471" ph="INSERT INTO webpage... " />
-                <marker date="1475573034556" expanded="true" signature="4458:4656" ph="INSERT INTO playlist... " />
-                <marker date="1475573034556" expanded="true" signature="4458:4659" ph="INSERT INTO playlist... " />
-                <marker date="1475573034556" expanded="true" signature="4458:4686" ph="INSERT INTO playlist... " />
-                <marker date="1475573034556" expanded="true" signature="4458:4715" ph="INSERT INTO playlist... " />
-                <marker date="1475573034556" expanded="true" signature="4458:4716" ph="INSERT INTO playlist... " />
-                <marker date="1475573034556" expanded="true" signature="4458:4762" ph="INSERT INTO playlist... " />
-                <marker date="1475573034556" expanded="true" signature="4458:4798" ph="INSERT INTO playlist... " />
-                <marker date="1475573034556" expanded="true" signature="4458:4833" ph="INSERT INTO playlist... " />
-                <marker date="1475573034556" expanded="true" signature="4458:4867" ph="INSERT INTO playlist... " />
-                <marker date="1475573034556" expanded="true" signature="4458:4917" ph="INSERT INTO playlist... " />
-                <marker date="1475573034556" expanded="true" signature="4458:4971" ph="INSERT INTO playlist... " />
-                <marker date="1475573034556" expanded="true" signature="4458:5035" ph="INSERT INTO playlist... " />
-                <marker date="1475573034556" expanded="true" signature="6153:6217" ph="update missi... " />
-                <marker date="1475573034556" expanded="true" signature="7113:7127" ph="select * fro... missingValuemissingValue" />
-                <marker date="1475573034556" expanded="true" signature="7113:7150" ph="select * fro... missingValue" />
-                <marker date="1475573034556" expanded="true" signature="7113:7189" ph="select * fro... missingValue" />
+                <marker date="1475757660805" expanded="true" signature="2210:2301" ph="SELECT * FRO... webpage" />
+                <marker date="1475757660805" expanded="true" signature="3028:3395" ph="INSERT INTO missingValue... " />
+                <marker date="1475757660805" expanded="true" signature="3684:4008" ph="INSERT INTO webpage... " />
+                <marker date="1475757660805" expanded="true" signature="4447:4460" ph="INSERT INTO webpage... " />
+                <marker date="1475757660805" expanded="true" signature="4447:4657" ph="INSERT INTO playlist... " />
+                <marker date="1475757660805" expanded="true" signature="4447:4660" ph="INSERT INTO playlist... " />
+                <marker date="1475757660805" expanded="true" signature="4447:4687" ph="INSERT INTO playlist... " />
+                <marker date="1475757660805" expanded="true" signature="4447:4716" ph="INSERT INTO playlist... " />
+                <marker date="1475757660805" expanded="true" signature="4447:4717" ph="INSERT INTO playlist... " />
+                <marker date="1475757660805" expanded="true" signature="4447:4763" ph="INSERT INTO playlist... " />
+                <marker date="1475757660805" expanded="true" signature="4447:4799" ph="INSERT INTO playlist... " />
+                <marker date="1475757660805" expanded="true" signature="4447:4834" ph="INSERT INTO playlist... " />
+                <marker date="1475757660805" expanded="true" signature="4447:4868" ph="INSERT INTO playlist... " />
+                <marker date="1475757660805" expanded="true" signature="4447:4918" ph="INSERT INTO playlist... " />
+                <marker date="1475757660805" expanded="true" signature="4447:4972" ph="INSERT INTO playlist... " />
+                <marker date="1475757660805" expanded="true" signature="4447:5036" ph="INSERT INTO playlist... " />
+                <marker date="1475757660805" expanded="true" signature="6154:6233" ph="update missi... " />
+                <marker date="1475757660805" expanded="true" signature="7129:7143" ph="select * fro... missingValuemissingValue" />
+                <marker date="1475757660805" expanded="true" signature="7129:7166" ph="select * fro... missingValue" />
+                <marker date="1475757660805" expanded="true" signature="7129:7205" ph="select * fro... missingValue" />
               </folding>
             </state>
           </provider>
@@ -175,6 +252,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -203,10 +283,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="58" />
-    <option name="y" value="80" />
-    <option name="width" value="1760" />
-    <option name="height" value="957" />
+    <option name="x" value="-8" />
+    <option name="y" value="22" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -215,7 +295,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -233,61 +313,43 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Crawler-NeteaseMusic" />
+              <option name="myItemId" value="Crawler-netease-music" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Crawler-NeteaseMusic" />
+              <option name="myItemId" value="Crawler-netease-music" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Crawler-NeteaseMusic" />
+              <option name="myItemId" value="Crawler-netease-music" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Crawler-NeteaseMusic" />
+              <option name="myItemId" value="Crawler-netease-music" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Crawler-NeteaseMusic" />
+              <option name="myItemId" value="Crawler-netease-music" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Crawler-NeteaseMusic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Crawler-NeteaseMusic" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="model" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -299,7 +361,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
   </component>
   <component name="RecentsManager">
@@ -779,15 +841,16 @@
       <workItem from="1475494251287" duration="8920000" />
       <workItem from="1475510654093" duration="2543000" />
       <workItem from="1475560002749" duration="11349000" />
+      <workItem from="1475755302821" duration="1494000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22812000" />
+    <option name="totallyTimeSpent" value="24306000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="58" y="80" width="1760" height="957" extended-state="0" />
-    <editor active="false" />
+    <frame x="-8" y="22" width="1936" height="1066" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -796,12 +859,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.66845495" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6699029" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16311301" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -842,7 +905,235 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="682">
           <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding>
+            <element signature="e#545#546#0" expanded="false" />
+            <element signature="e#606#607#0" expanded="false" />
+            <element signature="e#1616#1617#0" expanded="false" />
+            <element signature="e#1641#1642#0" expanded="false" />
+            <element signature="e#1674#1675#0" expanded="false" />
+            <element signature="e#1702#1703#0" expanded="false" />
+            <element signature="e#1733#1734#0" expanded="false" />
+            <element signature="e#1760#1761#0" expanded="false" />
+            <element signature="e#1800#1801#0" expanded="false" />
+            <element signature="e#1832#1833#0" expanded="false" />
+            <element signature="e#1867#1868#0" expanded="false" />
+            <element signature="e#1898#1899#0" expanded="false" />
+            <element signature="e#1946#1947#0" expanded="false" />
+            <element signature="e#1986#1987#0" expanded="false" />
+            <element signature="e#2020#2021#0" expanded="false" />
+            <element signature="e#2050#2051#0" expanded="false" />
+            <element signature="e#2096#2097#0" expanded="false" />
+            <element signature="e#2134#2135#0" expanded="false" />
+            <element signature="e#2171#2172#0" expanded="false" />
+            <element signature="e#2204#2205#0" expanded="false" />
+            <element signature="e#2256#2257#0" expanded="false" />
+            <element signature="e#2300#2301#0" expanded="false" />
+            <element signature="e#2333#2334#0" expanded="false" />
+            <element signature="e#2365#2366#0" expanded="false" />
+            <element signature="e#2412#2413#0" expanded="false" />
+            <element signature="e#2454#2455#0" expanded="false" />
+            <element signature="e#2487#2488#0" expanded="false" />
+            <element signature="e#2519#2520#0" expanded="false" />
+            <element signature="e#2566#2567#0" expanded="false" />
+            <element signature="e#2608#2609#0" expanded="false" />
+            <element signature="e#2640#2641#0" expanded="false" />
+            <element signature="e#2671#2672#0" expanded="false" />
+            <element signature="e#2716#2717#0" expanded="false" />
+            <element signature="e#2756#2757#0" expanded="false" />
+            <element signature="e#2792#2793#0" expanded="false" />
+            <element signature="e#2827#2828#0" expanded="false" />
+            <element signature="e#2880#2881#0" expanded="false" />
+            <element signature="e#2928#2929#0" expanded="false" />
+            <element signature="e#2966#2967#0" expanded="false" />
+            <element signature="e#3000#3001#0" expanded="false" />
+            <element signature="e#3054#3055#0" expanded="false" />
+            <element signature="e#3100#3101#0" expanded="false" />
+            <element signature="e#3130#3131#0" expanded="false" />
+            <element signature="e#3156#3157#0" expanded="false" />
+            <element signature="e#3194#3195#0" expanded="false" />
+            <element signature="e#3224#3225#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClawlerThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="method#parse#0;class#ClawlerThread#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="62" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Crawler-NeteaseMusic.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/WebPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="17" selection-end-column="51" />
+          <folding>
+            <element signature="e#806#807#0" expanded="false" />
+            <element signature="e#829#830#0" expanded="false" />
+            <element signature="e#2989#2990#0" expanded="false" />
+            <element signature="e#3017#3018#0" expanded="false" />
+            <element signature="e#3043#3044#0" expanded="false" />
+            <element signature="e#3068#3069#0" expanded="false" />
+            <element signature="e#3098#3099#0" expanded="false" />
+            <element signature="e#3124#3125#0" expanded="false" />
+            <element signature="e#3162#3163#0" expanded="false" />
+            <element signature="e#3192#3193#0" expanded="false" />
+            <element signature="e#3225#3226#0" expanded="false" />
+            <element signature="e#3252#3253#0" expanded="false" />
+            <element signature="e#3294#3295#0" expanded="false" />
+            <element signature="e#3326#3327#0" expanded="false" />
+            <element signature="e#3357#3358#0" expanded="false" />
+            <element signature="e#3384#3385#0" expanded="false" />
+            <element signature="e#3424#3425#0" expanded="false" />
+            <element signature="e#3456#3457#0" expanded="false" />
+            <element signature="e#3489#3490#0" expanded="false" />
+            <element signature="e#3518#3519#0" expanded="false" />
+            <element signature="e#3562#3563#0" expanded="false" />
+            <element signature="e#3598#3599#0" expanded="false" />
+            <element signature="e#3630#3631#0" expanded="false" />
+            <element signature="e#3658#3659#0" expanded="false" />
+            <element signature="e#3700#3701#0" expanded="false" />
+            <element signature="e#3734#3735#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClawlerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2077">
+          <caret line="172" column="5" selection-start-line="172" selection-start-column="5" selection-end-line="172" selection-end-column="5" />
+          <folding>
+            <element signature="method#findTopUncrawlWebPage#0;class#ClawlerService#0" expanded="false" />
+            <element signature="method#save#1;class#ClawlerService#0" expanded="false" />
+            <element signature="method#initAll#0;class#ClawlerService#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1767">
+          <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#DataBase#0;class#DataBase#0" expanded="false" />
+            <element signature="method#getWebPagesFromDataBaseByStatusAndCount#0;class#DataBase#0" expanded="false" />
+            <element signature="method#updateHtml#0;class#DataBase#0" expanded="false" />
+            <element signature="method#update#0;class#DataBase#0" expanded="false" />
+            <element signature="method#isAlreadyExist#0;class#DataBase#0" expanded="false" />
+            <marker date="1475757660805" expanded="true" signature="2210:2301" ph="SELECT * FRO... webpage" />
+            <marker date="1475757660805" expanded="true" signature="3028:3395" ph="INSERT INTO missingValue... " />
+            <marker date="1475757660805" expanded="true" signature="3684:4008" ph="INSERT INTO webpage... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4460" ph="INSERT INTO webpage... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4657" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4660" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4687" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4716" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4717" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4763" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4799" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4834" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4868" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4918" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4972" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="4447:5036" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="6154:6233" ph="update missi... " />
+            <marker date="1475757660805" expanded="true" signature="7129:7143" ph="select * fro... missingValuemissingValue" />
+            <marker date="1475757660805" expanded="true" signature="7129:7166" ph="select * fro... missingValue" />
+            <marker date="1475757660805" expanded="true" signature="7129:7205" ph="select * fro... missingValue" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/cfbe6284-bf91-4ffd-b0de-73f5c22e3261/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/PlayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+          <folding>
+            <element signature="e#545#546#0" expanded="false" />
+            <element signature="e#606#607#0" expanded="false" />
+            <element signature="e#1616#1617#0" expanded="false" />
+            <element signature="e#1641#1642#0" expanded="false" />
+            <element signature="e#1674#1675#0" expanded="false" />
+            <element signature="e#1702#1703#0" expanded="false" />
+            <element signature="e#1733#1734#0" expanded="false" />
+            <element signature="e#1760#1761#0" expanded="false" />
+            <element signature="e#1800#1801#0" expanded="false" />
+            <element signature="e#1832#1833#0" expanded="false" />
+            <element signature="e#1867#1868#0" expanded="false" />
+            <element signature="e#1898#1899#0" expanded="false" />
+            <element signature="e#1946#1947#0" expanded="false" />
+            <element signature="e#1986#1987#0" expanded="false" />
+            <element signature="e#2020#2021#0" expanded="false" />
+            <element signature="e#2050#2051#0" expanded="false" />
+            <element signature="e#2096#2097#0" expanded="false" />
+            <element signature="e#2134#2135#0" expanded="false" />
+            <element signature="e#2171#2172#0" expanded="false" />
+            <element signature="e#2204#2205#0" expanded="false" />
+            <element signature="e#2256#2257#0" expanded="false" />
+            <element signature="e#2300#2301#0" expanded="false" />
+            <element signature="e#2333#2334#0" expanded="false" />
+            <element signature="e#2365#2366#0" expanded="false" />
+            <element signature="e#2412#2413#0" expanded="false" />
+            <element signature="e#2454#2455#0" expanded="false" />
+            <element signature="e#2487#2488#0" expanded="false" />
+            <element signature="e#2519#2520#0" expanded="false" />
+            <element signature="e#2566#2567#0" expanded="false" />
+            <element signature="e#2608#2609#0" expanded="false" />
+            <element signature="e#2640#2641#0" expanded="false" />
+            <element signature="e#2671#2672#0" expanded="false" />
+            <element signature="e#2716#2717#0" expanded="false" />
+            <element signature="e#2756#2757#0" expanded="false" />
+            <element signature="e#2792#2793#0" expanded="false" />
+            <element signature="e#2827#2828#0" expanded="false" />
+            <element signature="e#2880#2881#0" expanded="false" />
+            <element signature="e#2928#2929#0" expanded="false" />
+            <element signature="e#2966#2967#0" expanded="false" />
+            <element signature="e#3000#3001#0" expanded="false" />
+            <element signature="e#3054#3055#0" expanded="false" />
+            <element signature="e#3100#3101#0" expanded="false" />
+            <element signature="e#3130#3131#0" expanded="false" />
+            <element signature="e#3156#3157#0" expanded="false" />
+            <element signature="e#3194#3195#0" expanded="false" />
+            <element signature="e#3224#3225#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -851,8 +1142,6 @@
         <state relative-caret-position="961">
           <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding>
-            <element signature="e#658#659#0" expanded="true" />
-            <element signature="e#710#711#0" expanded="true" />
             <element signature="method#parse#0;class#ClawlerThread#0" expanded="false" />
           </folding>
         </state>
@@ -879,7 +1168,32 @@
         <state relative-caret-position="2108">
           <caret line="73" column="0" selection-start-line="73" selection-start-column="2" selection-end-line="91" selection-end-column="26" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#806#807#0" expanded="false" />
+            <element signature="e#829#830#0" expanded="false" />
+            <element signature="e#2989#2990#0" expanded="false" />
+            <element signature="e#3017#3018#0" expanded="false" />
+            <element signature="e#3043#3044#0" expanded="false" />
+            <element signature="e#3068#3069#0" expanded="false" />
+            <element signature="e#3098#3099#0" expanded="false" />
+            <element signature="e#3124#3125#0" expanded="false" />
+            <element signature="e#3162#3163#0" expanded="false" />
+            <element signature="e#3192#3193#0" expanded="false" />
+            <element signature="e#3225#3226#0" expanded="false" />
+            <element signature="e#3252#3253#0" expanded="false" />
+            <element signature="e#3294#3295#0" expanded="false" />
+            <element signature="e#3326#3327#0" expanded="false" />
+            <element signature="e#3357#3358#0" expanded="false" />
+            <element signature="e#3384#3385#0" expanded="false" />
+            <element signature="e#3424#3425#0" expanded="false" />
+            <element signature="e#3456#3457#0" expanded="false" />
+            <element signature="e#3489#3490#0" expanded="false" />
+            <element signature="e#3518#3519#0" expanded="false" />
+            <element signature="e#3562#3563#0" expanded="false" />
+            <element signature="e#3598#3599#0" expanded="false" />
+            <element signature="e#3630#3631#0" expanded="false" />
+            <element signature="e#3658#3659#0" expanded="false" />
+            <element signature="e#3700#3701#0" expanded="false" />
+            <element signature="e#3734#3735#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -892,30 +1206,29 @@
             <element signature="imports" expanded="true" />
             <element signature="method#DataBase#0;class#DataBase#0" expanded="false" />
             <element signature="method#getWebPagesFromDataBaseByStatusAndCount#0;class#DataBase#0" expanded="false" />
-            <element signature="method#updateStatus#0;class#DataBase#0" expanded="false" />
             <element signature="method#updateHtml#0;class#DataBase#0" expanded="false" />
             <element signature="method#update#0;class#DataBase#0" expanded="false" />
             <element signature="method#isAlreadyExist#0;class#DataBase#0" expanded="false" />
-            <marker date="1475573034556" expanded="true" signature="2221:2312" ph="SELECT * FRO... webpage" />
-            <marker date="1475573034556" expanded="true" signature="3039:3406" ph="INSERT INTO missingValue... " />
-            <marker date="1475573034556" expanded="true" signature="3695:4019" ph="INSERT INTO webpage... " />
-            <marker date="1475573034556" expanded="true" signature="4458:4471" ph="INSERT INTO webpage... " />
-            <marker date="1475573034556" expanded="true" signature="4458:4656" ph="INSERT INTO playlist... " />
-            <marker date="1475573034556" expanded="true" signature="4458:4659" ph="INSERT INTO playlist... " />
-            <marker date="1475573034556" expanded="true" signature="4458:4686" ph="INSERT INTO playlist... " />
-            <marker date="1475573034556" expanded="true" signature="4458:4715" ph="INSERT INTO playlist... " />
-            <marker date="1475573034556" expanded="true" signature="4458:4716" ph="INSERT INTO playlist... " />
-            <marker date="1475573034556" expanded="true" signature="4458:4762" ph="INSERT INTO playlist... " />
-            <marker date="1475573034556" expanded="true" signature="4458:4798" ph="INSERT INTO playlist... " />
-            <marker date="1475573034556" expanded="true" signature="4458:4833" ph="INSERT INTO playlist... " />
-            <marker date="1475573034556" expanded="true" signature="4458:4867" ph="INSERT INTO playlist... " />
-            <marker date="1475573034556" expanded="true" signature="4458:4917" ph="INSERT INTO playlist... " />
-            <marker date="1475573034556" expanded="true" signature="4458:4971" ph="INSERT INTO playlist... " />
-            <marker date="1475573034556" expanded="true" signature="4458:5035" ph="INSERT INTO playlist... " />
-            <marker date="1475573034556" expanded="true" signature="6153:6217" ph="update missi... " />
-            <marker date="1475573034556" expanded="true" signature="7113:7127" ph="select * fro... missingValuemissingValue" />
-            <marker date="1475573034556" expanded="true" signature="7113:7150" ph="select * fro... missingValue" />
-            <marker date="1475573034556" expanded="true" signature="7113:7189" ph="select * fro... missingValue" />
+            <marker date="1475757660805" expanded="true" signature="2210:2301" ph="SELECT * FRO... webpage" />
+            <marker date="1475757660805" expanded="true" signature="3028:3395" ph="INSERT INTO missingValue... " />
+            <marker date="1475757660805" expanded="true" signature="3684:4008" ph="INSERT INTO webpage... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4460" ph="INSERT INTO webpage... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4657" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4660" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4687" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4716" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4717" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4763" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4799" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4834" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4868" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4918" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4972" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="4447:5036" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="6154:6233" ph="update missi... " />
+            <marker date="1475757660805" expanded="true" signature="7129:7143" ph="select * fro... missingValuemissingValue" />
+            <marker date="1475757660805" expanded="true" signature="7129:7166" ph="select * fro... missingValue" />
+            <marker date="1475757660805" expanded="true" signature="7129:7205" ph="select * fro... missingValue" />
           </folding>
         </state>
       </provider>
@@ -924,7 +1237,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="682">
           <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-          <folding />
+          <folding>
+            <element signature="e#545#546#0" expanded="false" />
+            <element signature="e#606#607#0" expanded="false" />
+            <element signature="e#1616#1617#0" expanded="false" />
+            <element signature="e#1641#1642#0" expanded="false" />
+            <element signature="e#1674#1675#0" expanded="false" />
+            <element signature="e#1702#1703#0" expanded="false" />
+            <element signature="e#1733#1734#0" expanded="false" />
+            <element signature="e#1760#1761#0" expanded="false" />
+            <element signature="e#1800#1801#0" expanded="false" />
+            <element signature="e#1832#1833#0" expanded="false" />
+            <element signature="e#1867#1868#0" expanded="false" />
+            <element signature="e#1898#1899#0" expanded="false" />
+            <element signature="e#1946#1947#0" expanded="false" />
+            <element signature="e#1986#1987#0" expanded="false" />
+            <element signature="e#2020#2021#0" expanded="false" />
+            <element signature="e#2050#2051#0" expanded="false" />
+            <element signature="e#2096#2097#0" expanded="false" />
+            <element signature="e#2134#2135#0" expanded="false" />
+            <element signature="e#2171#2172#0" expanded="false" />
+            <element signature="e#2204#2205#0" expanded="false" />
+            <element signature="e#2256#2257#0" expanded="false" />
+            <element signature="e#2300#2301#0" expanded="false" />
+            <element signature="e#2333#2334#0" expanded="false" />
+            <element signature="e#2365#2366#0" expanded="false" />
+            <element signature="e#2412#2413#0" expanded="false" />
+            <element signature="e#2454#2455#0" expanded="false" />
+            <element signature="e#2487#2488#0" expanded="false" />
+            <element signature="e#2519#2520#0" expanded="false" />
+            <element signature="e#2566#2567#0" expanded="false" />
+            <element signature="e#2608#2609#0" expanded="false" />
+            <element signature="e#2640#2641#0" expanded="false" />
+            <element signature="e#2671#2672#0" expanded="false" />
+            <element signature="e#2716#2717#0" expanded="false" />
+            <element signature="e#2756#2757#0" expanded="false" />
+            <element signature="e#2792#2793#0" expanded="false" />
+            <element signature="e#2827#2828#0" expanded="false" />
+            <element signature="e#2880#2881#0" expanded="false" />
+            <element signature="e#2928#2929#0" expanded="false" />
+            <element signature="e#2966#2967#0" expanded="false" />
+            <element signature="e#3000#3001#0" expanded="false" />
+            <element signature="e#3054#3055#0" expanded="false" />
+            <element signature="e#3100#3101#0" expanded="false" />
+            <element signature="e#3130#3131#0" expanded="false" />
+            <element signature="e#3156#3157#0" expanded="false" />
+            <element signature="e#3194#3195#0" expanded="false" />
+            <element signature="e#3224#3225#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -933,8 +1293,6 @@
         <state relative-caret-position="961">
           <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding>
-            <element signature="e#658#659#0" expanded="true" />
-            <element signature="e#710#711#0" expanded="true" />
             <element signature="method#parse#0;class#ClawlerThread#0" expanded="false" />
           </folding>
         </state>
@@ -961,7 +1319,32 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#806#807#0" expanded="false" />
+            <element signature="e#829#830#0" expanded="false" />
+            <element signature="e#2989#2990#0" expanded="false" />
+            <element signature="e#3017#3018#0" expanded="false" />
+            <element signature="e#3043#3044#0" expanded="false" />
+            <element signature="e#3068#3069#0" expanded="false" />
+            <element signature="e#3098#3099#0" expanded="false" />
+            <element signature="e#3124#3125#0" expanded="false" />
+            <element signature="e#3162#3163#0" expanded="false" />
+            <element signature="e#3192#3193#0" expanded="false" />
+            <element signature="e#3225#3226#0" expanded="false" />
+            <element signature="e#3252#3253#0" expanded="false" />
+            <element signature="e#3294#3295#0" expanded="false" />
+            <element signature="e#3326#3327#0" expanded="false" />
+            <element signature="e#3357#3358#0" expanded="false" />
+            <element signature="e#3384#3385#0" expanded="false" />
+            <element signature="e#3424#3425#0" expanded="false" />
+            <element signature="e#3456#3457#0" expanded="false" />
+            <element signature="e#3489#3490#0" expanded="false" />
+            <element signature="e#3518#3519#0" expanded="false" />
+            <element signature="e#3562#3563#0" expanded="false" />
+            <element signature="e#3598#3599#0" expanded="false" />
+            <element signature="e#3630#3631#0" expanded="false" />
+            <element signature="e#3658#3659#0" expanded="false" />
+            <element signature="e#3700#3701#0" expanded="false" />
+            <element signature="e#3734#3735#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -984,19 +1367,91 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/model/WebPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-678">
+        <state relative-caret-position="279">
           <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="17" selection-end-column="51" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#806#807#0" expanded="false" />
+            <element signature="e#829#830#0" expanded="false" />
+            <element signature="e#2989#2990#0" expanded="false" />
+            <element signature="e#3017#3018#0" expanded="false" />
+            <element signature="e#3043#3044#0" expanded="false" />
+            <element signature="e#3068#3069#0" expanded="false" />
+            <element signature="e#3098#3099#0" expanded="false" />
+            <element signature="e#3124#3125#0" expanded="false" />
+            <element signature="e#3162#3163#0" expanded="false" />
+            <element signature="e#3192#3193#0" expanded="false" />
+            <element signature="e#3225#3226#0" expanded="false" />
+            <element signature="e#3252#3253#0" expanded="false" />
+            <element signature="e#3294#3295#0" expanded="false" />
+            <element signature="e#3326#3327#0" expanded="false" />
+            <element signature="e#3357#3358#0" expanded="false" />
+            <element signature="e#3384#3385#0" expanded="false" />
+            <element signature="e#3424#3425#0" expanded="false" />
+            <element signature="e#3456#3457#0" expanded="false" />
+            <element signature="e#3489#3490#0" expanded="false" />
+            <element signature="e#3518#3519#0" expanded="false" />
+            <element signature="e#3562#3563#0" expanded="false" />
+            <element signature="e#3598#3599#0" expanded="false" />
+            <element signature="e#3630#3631#0" expanded="false" />
+            <element signature="e#3658#3659#0" expanded="false" />
+            <element signature="e#3700#3701#0" expanded="false" />
+            <element signature="e#3734#3735#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/model/PlayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
+        <state relative-caret-position="682">
           <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-          <folding />
+          <folding>
+            <element signature="e#545#546#0" expanded="false" />
+            <element signature="e#606#607#0" expanded="false" />
+            <element signature="e#1616#1617#0" expanded="false" />
+            <element signature="e#1641#1642#0" expanded="false" />
+            <element signature="e#1674#1675#0" expanded="false" />
+            <element signature="e#1702#1703#0" expanded="false" />
+            <element signature="e#1733#1734#0" expanded="false" />
+            <element signature="e#1760#1761#0" expanded="false" />
+            <element signature="e#1800#1801#0" expanded="false" />
+            <element signature="e#1832#1833#0" expanded="false" />
+            <element signature="e#1867#1868#0" expanded="false" />
+            <element signature="e#1898#1899#0" expanded="false" />
+            <element signature="e#1946#1947#0" expanded="false" />
+            <element signature="e#1986#1987#0" expanded="false" />
+            <element signature="e#2020#2021#0" expanded="false" />
+            <element signature="e#2050#2051#0" expanded="false" />
+            <element signature="e#2096#2097#0" expanded="false" />
+            <element signature="e#2134#2135#0" expanded="false" />
+            <element signature="e#2171#2172#0" expanded="false" />
+            <element signature="e#2204#2205#0" expanded="false" />
+            <element signature="e#2256#2257#0" expanded="false" />
+            <element signature="e#2300#2301#0" expanded="false" />
+            <element signature="e#2333#2334#0" expanded="false" />
+            <element signature="e#2365#2366#0" expanded="false" />
+            <element signature="e#2412#2413#0" expanded="false" />
+            <element signature="e#2454#2455#0" expanded="false" />
+            <element signature="e#2487#2488#0" expanded="false" />
+            <element signature="e#2519#2520#0" expanded="false" />
+            <element signature="e#2566#2567#0" expanded="false" />
+            <element signature="e#2608#2609#0" expanded="false" />
+            <element signature="e#2640#2641#0" expanded="false" />
+            <element signature="e#2671#2672#0" expanded="false" />
+            <element signature="e#2716#2717#0" expanded="false" />
+            <element signature="e#2756#2757#0" expanded="false" />
+            <element signature="e#2792#2793#0" expanded="false" />
+            <element signature="e#2827#2828#0" expanded="false" />
+            <element signature="e#2880#2881#0" expanded="false" />
+            <element signature="e#2928#2929#0" expanded="false" />
+            <element signature="e#2966#2967#0" expanded="false" />
+            <element signature="e#3000#3001#0" expanded="false" />
+            <element signature="e#3054#3055#0" expanded="false" />
+            <element signature="e#3100#3101#0" expanded="false" />
+            <element signature="e#3130#3131#0" expanded="false" />
+            <element signature="e#3156#3157#0" expanded="false" />
+            <element signature="e#3194#3195#0" expanded="false" />
+            <element signature="e#3224#3225#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1010,10 +1465,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ClawlerService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="659">
+        <state relative-caret-position="2077">
           <caret line="172" column="5" selection-start-line="172" selection-start-column="5" selection-end-line="172" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
             <element signature="method#findTopUncrawlWebPage#0;class#ClawlerService#0" expanded="false" />
             <element signature="method#save#1;class#ClawlerService#0" expanded="false" />
             <element signature="method#initAll#0;class#ClawlerService#0" expanded="false" />
@@ -1021,10 +1475,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClawlerThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1178">
+          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding>
+            <element signature="method#parse#0;class#ClawlerThread#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        <state relative-caret-position="279">
+          <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1033,48 +1497,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DataBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="81" column="0" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+        <state relative-caret-position="-44">
+          <caret line="23" column="60" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#DataBase#0;class#DataBase#0" expanded="false" />
             <element signature="method#getWebPagesFromDataBaseByStatusAndCount#0;class#DataBase#0" expanded="false" />
-            <element signature="method#updateStatus#0;class#DataBase#0" expanded="false" />
             <element signature="method#updateHtml#0;class#DataBase#0" expanded="false" />
             <element signature="method#update#0;class#DataBase#0" expanded="false" />
             <element signature="method#isAlreadyExist#0;class#DataBase#0" expanded="false" />
-            <marker date="1475573034556" expanded="true" signature="2221:2312" ph="SELECT * FRO... webpage" />
-            <marker date="1475573034556" expanded="true" signature="3039:3406" ph="INSERT INTO missingValue... " />
-            <marker date="1475573034556" expanded="true" signature="3695:4019" ph="INSERT INTO webpage... " />
-            <marker date="1475573034556" expanded="true" signature="4458:4471" ph="INSERT INTO webpage... " />
-            <marker date="1475573034556" expanded="true" signature="4458:4656" ph="INSERT INTO playlist... " />
-            <marker date="1475573034556" expanded="true" signature="4458:4659" ph="INSERT INTO playlist... " />
-            <marker date="1475573034556" expanded="true" signature="4458:4686" ph="INSERT INTO playlist... " />
-            <marker date="1475573034556" expanded="true" signature="4458:4715" ph="INSERT INTO playlist... " />
-            <marker date="1475573034556" expanded="true" signature="4458:4716" ph="INSERT INTO playlist... " />
-            <marker date="1475573034556" expanded="true" signature="4458:4762" ph="INSERT INTO playlist... " />
-            <marker date="1475573034556" expanded="true" signature="4458:4798" ph="INSERT INTO playlist... " />
-            <marker date="1475573034556" expanded="true" signature="4458:4833" ph="INSERT INTO playlist... " />
-            <marker date="1475573034556" expanded="true" signature="4458:4867" ph="INSERT INTO playlist... " />
-            <marker date="1475573034556" expanded="true" signature="4458:4917" ph="INSERT INTO playlist... " />
-            <marker date="1475573034556" expanded="true" signature="4458:4971" ph="INSERT INTO playlist... " />
-            <marker date="1475573034556" expanded="true" signature="4458:5035" ph="INSERT INTO playlist... " />
-            <marker date="1475573034556" expanded="true" signature="6153:6217" ph="update missi... " />
-            <marker date="1475573034556" expanded="true" signature="7113:7127" ph="select * fro... missingValuemissingValue" />
-            <marker date="1475573034556" expanded="true" signature="7113:7150" ph="select * fro... missingValue" />
-            <marker date="1475573034556" expanded="true" signature="7113:7189" ph="select * fro... missingValue" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ClawlerThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-20">
-          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
-          <folding>
-            <element signature="e#658#659#0" expanded="true" />
-            <element signature="e#710#711#0" expanded="true" />
-            <element signature="method#parse#0;class#ClawlerThread#0" expanded="false" />
+            <marker date="1475757660805" expanded="true" signature="2210:2301" ph="SELECT * FRO... webpage" />
+            <marker date="1475757660805" expanded="true" signature="3028:3395" ph="INSERT INTO missingValue... " />
+            <marker date="1475757660805" expanded="true" signature="3684:4008" ph="INSERT INTO webpage... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4460" ph="INSERT INTO webpage... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4657" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4660" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4687" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4716" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4717" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4763" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4799" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4834" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4868" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4918" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="4447:4972" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="4447:5036" ph="INSERT INTO playlist... " />
+            <marker date="1475757660805" expanded="true" signature="6154:6233" ph="update missi... " />
+            <marker date="1475757660805" expanded="true" signature="7129:7143" ph="select * fro... missingValuemissingValue" />
+            <marker date="1475757660805" expanded="true" signature="7129:7166" ph="select * fro... missingValue" />
+            <marker date="1475757660805" expanded="true" signature="7129:7205" ph="select * fro... missingValue" />
           </folding>
         </state>
       </provider>

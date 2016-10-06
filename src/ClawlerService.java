@@ -81,7 +81,7 @@ public class ClawlerService {
     /**
      * 将一系列种子seedUrl保存到数据库
      */
-    private void init(String catalog) {
+    void init(String catalog) {
         // TODO: 2016/10/1 增加一个分类的所有歌单
         for (int i = 0; i < 43; i++) {
             save(new WebPage("http://music.163.com/discover/playlist/?order=hot&cat=" + catalog + "&limit=35&offset=" + (i * 35),
