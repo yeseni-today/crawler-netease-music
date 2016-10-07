@@ -84,6 +84,7 @@ public class ClawlerThread implements Runnable {
 
         String commentCountString = document.select("#cnt_comment_count").html();//歌单的评论数
         int commentCount = 0;
+
         if (commentCountString.equals("评论")) {
             commentCount = 0;
         } else {
@@ -97,10 +98,18 @@ public class ClawlerThread implements Runnable {
         String creatorHome = BASE_URL + document.select("a.s-fc7").attr("href");//歌单创建者的主页
         String url = BASE_PLAYLIST_URL + id;//歌单的url
 
+        StringBuilder label = new StringBuilder();
+        //查找歌单的标签
+        Elements elements = document.select("a.u-tag > i");
+        for(Element element:elements){
+            label.append(element.html());
+            label.append(" ");
+        }
+
 //        System.out.println("url" + url);
 //        System.err.println("commentCount : " + document.select("#cnt_comment_count").html());
 
-        return new PlayList(id, name, describle, creator, creatorHome, createDate, songcount, playCount, favCount, commentCount, url);
+        return new PlayList(id, name, describle, creator, creatorHome, createDate, songcount, playCount, favCount, commentCount, url,label.toString());
 
     }
 

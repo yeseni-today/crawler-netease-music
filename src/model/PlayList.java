@@ -22,13 +22,15 @@ public class PlayList {
 
     private String url;
 
+    private String label;
+
     public PlayList(int id, String name, String url) {
-        this(id, name, "", "", "","", 0, 0, 0, 0,url);
+        this(id, name, "", "", "","", 0, 0, 0, 0,url,"");
     }
 
     public PlayList(int id, String name,
                     String describe, String creator,String creatorHome, String createDate,
-                    int songCount, int playCount, int favCount, int commentCount,String url) {
+                    int songCount, int playCount, int favCount, int commentCount,String url,String label) {
         this.id = id;
         this.name = name;
         this.describe = describe;
@@ -40,6 +42,7 @@ public class PlayList {
         this.favCount = favCount;
         this.commentCount = commentCount;
         this.url = url;
+        this.label = label;
     }
 
     @Override
@@ -136,5 +139,13 @@ public class PlayList {
 
     public void setUrl(String url) {
         this.url = url;
+    }
+
+    public String getLabel() {
+        return label;
+    }
+
+    public void setLabel(String label) {
+        this.label = label;
     }
 }

@@ -17,11 +17,14 @@ import static java.lang.System.out;
 public class DataBase {
 
     public static final String SQL_DRIVER_CLASS_NAME = "com.mysql.jdbc.Driver";
-    public static final String URL_OPEN_CONNECTION = "jdbc:mysql://localhost:3306/acg";
+//    public static final String URL_OPEN_CONNECTION = "jdbc:mysql://localhost:3306/acg";
+    public static final String URL_OPEN_CONNECTION = "jdbc:mysql://localhost:3306/crawler_netease_music";
+
     public static final String USER_NAME = "root";
     public static final String USER_PASSWORD = "houyudong2012";
 
-    public static final String TABLE_NAME_PLAYLIST = "gufeng_playlist";
+    public static final String TABLE_NAME_PLAYLIST = "playlist";
+//    public static final String TABLE_NAME_PLAYLIST = "gufeng_playlist";
     public static final String TABLE_NAME_WEBPAGE = "webpage";
 
     public static final String INDEX_ID = "id";
@@ -108,11 +111,11 @@ public class DataBase {
         }
 
         String sql = " INSERT INTO  " +TABLE_NAME_PLAYLIST+
-                "(id,playlist_name,playlist_creator,playlist_creator_home,playlist_create_date,song_count,play_count,fav_count,comment_count,url) " +
+                "(id,playlist_name,playlist_creator,playlist_creator_home,playlist_create_date,song_count,play_count,fav_count,comment_count,url,playlist_label) " +
                 "VALUES ('" + playList.getId() + "','" + playList.getName() + "','"+ playList.getCreator() +
                 "','" + playList.getCreatorHome() + "','" + playList.getCreateDate() + "','" + playList.getSongCount() + "','"
                 + playList.getPlayCount() + "','" + playList.getFavCount() + "'" +
-                ",'" + playList.getCommentCount() + "','" + playList.getUrl() + "')";
+                ",'" + playList.getCommentCount() + "','" + playList.getUrl() + "','"+playList.getLabel()+"')";
         System.out.println(sql);
 
         Statement statement = (Statement) connection.createStatement();
