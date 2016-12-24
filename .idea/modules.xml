@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Crawler-NeteaseMusic.iml" filepath="$PROJECT_DIR$/Crawler-NeteaseMusic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crawler-neteasr-music.iml" filepath="$PROJECT_DIR$/.idea/modules/crawler-neteasr-music.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crawler-neteasr-music_main.iml" filepath="$PROJECT_DIR$/.idea/modules/crawler-neteasr-music_main.iml" group="crawler-neteasr-music" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/crawler-neteasr-music_test.iml" filepath="$PROJECT_DIR$/.idea/modules/crawler-neteasr-music_test.iml" group="crawler-neteasr-music" />
     </modules>
   </component>
 </project>
