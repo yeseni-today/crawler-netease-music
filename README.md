@@ -1,6 +1,6 @@
 # Crawler-netease-music
 
-一个小型爬虫，用于爬取网易云音乐的歌单列表。
+A small crawler based Java for playlist of NeteaseMusic。
 
 # Branch
 
